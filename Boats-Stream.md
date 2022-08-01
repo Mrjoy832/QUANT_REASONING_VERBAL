@@ -1,6 +1,7 @@
 # Boats Stream
 
 -  https://www.indiabix.com/aptitude/boats-and-streams/
+-  https://prepinsta.com/boats-and-streams/questions/
 
 
 
