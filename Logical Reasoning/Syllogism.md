@@ -1,7 +1,7 @@
 # SYLLOGISM:
 
--
--
+- https://prepinsta.com/infosys/logical/syllogisms/quiz-1/
+- http://www.indiabix.com/verbal-reasoning/syllogism
 
 ---
 ![image](https://user-images.githubusercontent.com/77873383/182382876-c413fd79-f7c2-41c1-8cc5-e6f9a7e82825.png)
@@ -21,7 +21,7 @@
 
 ---
 
->> **May be - come out by own exp**
+>> **May be Facts - come out by own exp**
 - All A are B  <-> some B are A
 - some A are B <-> some B are A
 - when common are X in both suppose A-B , B-c and B is X in both then thwre is no rltn between A,C
