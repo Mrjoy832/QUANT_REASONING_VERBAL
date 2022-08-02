@@ -80,4 +80,13 @@ suppose 3 cols A,B,C and we have to find col-B that means we have to check how w
 1st row 2X8 + 2X1 = 18<br>
 3rd row 3X2 + 1X1 = 7
 
+---
+![image](https://user-images.githubusercontent.com/77873383/182425314-f177c721-cbf9-4a7d-ac51-4ccfb2841ac9.png)
 
+---
+
+![image](https://user-images.githubusercontent.com/77873383/182425691-e3478518-0cd6-49d3-9fed-e8f2960416f0.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/182426387-fa436a73-7adb-4031-9dab-e72cbd9c2e3a.png)
