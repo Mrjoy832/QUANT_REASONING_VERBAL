@@ -48,3 +48,36 @@
 
 1st row => 4^2 + 1^2 -1 =16 <br>
 2nd row=> 3^2 + 5^2 -1 =33
+
+---
+![image](https://user-images.githubusercontent.com/77873383/182419726-957d6a27-f94e-45df-9fd1-fb967630e612.png)
+
+(3X2)+(3+2)=11<br>
+(3X5)+(3+5)=32
+
+---
+![image](https://user-images.githubusercontent.com/77873383/182420236-1d2dd2c7-652c-4a55-a8bc-7993a9ffff1c.png)
+
+21X(2/3)=N=14<br>
+32X(3/4)=24 =X <br>
+
+**Remember Rank of letter **
+
+![image](https://user-images.githubusercontent.com/77873383/182420597-7ca3bb4f-3591-49af-9a02-36a60ce8fc41.png)
+
+---
+![image](https://user-images.githubusercontent.com/77873383/182423008-c751d761-47bf-465d-9691-b18dc4dcf30b.png)
+
+---
+****TRICKS**
+
+![image](https://user-images.githubusercontent.com/77873383/182423526-518e8cc2-7424-4e3b-8428-800b8ef40e8b.png)
+suppose 3 cols A,B,C and we have to find col-B that means we have to check how with A,C -> B comes
+
+---
+![image](https://user-images.githubusercontent.com/77873383/182423814-9c67491b-7e9b-4e03-8d48-550d72d60daf.png)
+
+1st row 2X8 + 2X1 = 18<br>
+3rd row 3X2 + 1X1 = 7
+
+
