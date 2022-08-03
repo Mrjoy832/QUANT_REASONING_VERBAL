@@ -90,3 +90,45 @@ suppose 3 cols A,B,C and we have to find col-B that means we have to check how w
 ---
 
 ![image](https://user-images.githubusercontent.com/77873383/182426387-fa436a73-7adb-4031-9dab-e72cbd9c2e3a.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/182614101-6c292e14-ddb2-4d59-99b8-f6321705ec39.png)
+**84**
+
+---
+![image](https://user-images.githubusercontent.com/77873383/182614937-8354173b-b987-429f-8130-944cd3143898.png)
+
+Last row = 9X6 - 3X8 =30
+5X8 - 7X5 =5
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/182615168-1fb31513-604b-465f-87b1-e12f42e9a1a0.png)
+
+Last row = 52 X 4/2 =104<br>
+1st row = 12 X 16/2 =96
+
+---
+![image](https://user-images.githubusercontent.com/77873383/182616010-c5a43b61-a043-45e6-90dc-ab9df33530e5.png)
+
+Sum in each row=20
+
+---
+**VVI**
+![image](https://user-images.githubusercontent.com/77873383/182616629-4d8778e3-8aa9-464d-9700-c4af259d4af8.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/182617211-9c74c7b8-efd4-43e5-8b5b-4ca1ac2bb6e2.png)
+
+1st row = 5X8+5+8=53<br>
+Last 29X2+29+2=89
+
+---
+![image](https://user-images.githubusercontent.com/77873383/182618033-03ea803d-697c-4abc-b646-a8fb6a1b25ee.png)
+
+** IF Large numbers are in row try to do operations on them
+
+---
+![image](https://user-images.githubusercontent.com/77873383/182618848-8e9d0e9c-ffe3-4990-ac9b-f7a805f5deff.png)
