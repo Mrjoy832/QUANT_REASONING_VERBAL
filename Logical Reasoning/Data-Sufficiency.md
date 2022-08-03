@@ -28,3 +28,36 @@
 
 ---
 ### ** HERE UPTO : INDIABIX Exercise :: Data Sufficiency - Section 1 Page-4 
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/182593273-77c92181-c5d7-46e9-ab63-59b10a5fcb00.png)
+
+ANS: OPTION-D
+St:A : Jethalal festival din e must jabei but bki din e jbena lekha nei
+St:B busy thakle jayna
+
+---
+![image](https://user-images.githubusercontent.com/77873383/182597637-8158f408-bf02-4189-b7b8-044f4f136afd.png)
+
+**BOTH**
+
+---
+![image](https://user-images.githubusercontent.com/77873383/182597792-609fb95b-5527-40f3-9979-6354c15444a6.png)
+
+Only ST-1
+
+---
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/182598468-a04eae8b-6fb8-4453-a210-d15bde154127.png)
+![image](https://user-images.githubusercontent.com/77873383/182598522-92a9a83e-2182-44a4-bfbf-942f95b11570.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/182600009-7d0e8ec3-0194-42be-bda0-eac82d17d568.png)
+
+![image](https://user-images.githubusercontent.com/77873383/182600039-06092ca7-50fb-478e-9d7b-37a3f78edc5e.png)
+
+---
