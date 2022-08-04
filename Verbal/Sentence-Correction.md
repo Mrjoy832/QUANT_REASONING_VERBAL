@@ -41,3 +41,25 @@
 
 - **TENSES**
 
+- **IMG**
+
+![image](https://user-images.githubusercontent.com/77873383/182757275-0d1013f4-3fa9-4dbb-9d1f-61e2ea11d381.png)
+
+![image](https://user-images.githubusercontent.com/77873383/182757311-3d2f97db-aa76-44a7-9f90-1a98d8d2f55f.png)
+
+
+- **IMG**
+
+![image](https://user-images.githubusercontent.com/77873383/182757427-06d938a3-114b-409d-bb68-39c7d81da714.png)
+
+
+- **IMG**
+- If **though** in 1st class must be **Yet** in 2nd clause
+- If **but** in 2nd must not be **though** in 1st
+![image](https://user-images.githubusercontent.com/77873383/182757624-0d143643-9f9a-4484-a75c-60ac37322bc4.png)
+
+- **IMG**
+
+![image](https://user-images.githubusercontent.com/77873383/182758052-c27c984c-dc64-4f06-8b29-9fad292e6c6c.png)
+
+**Superlative form means -> The most ...**
