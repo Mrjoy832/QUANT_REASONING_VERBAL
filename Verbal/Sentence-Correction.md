@@ -71,3 +71,14 @@
 Dont Consider the prepositionaal phase so here in 1st one **Child .....____is____ ...**
 
 ---
+![image](https://user-images.githubusercontent.com/77873383/182760113-d61f0c3f-9ffb-4614-951d-358779ec5320.png)
+
+**Subject Closer to the verb is considered -> so consider know here**
+
+---
+
+- **Collective Nouns**>> group of ... , The Team , The pride of lions , The Jury
+
+![image](https://user-images.githubusercontent.com/77873383/182760362-790ef662-94be-4e49-a1aa-0e76aae00cdb.png)
+
+
