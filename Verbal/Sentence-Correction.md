@@ -81,4 +81,36 @@ Dont Consider the prepositionaal phase so here in 1st one **Child .....____is___
 
 ![image](https://user-images.githubusercontent.com/77873383/182760362-790ef662-94be-4e49-a1aa-0e76aae00cdb.png)
 
+---
+- **Parallelism**
+![image](https://user-images.githubusercontent.com/77873383/182760924-8b960ee1-f9ed-4383-9395-8dddab323a68.png)
+**3 verbs are not in same form**
 
+![image](https://user-images.githubusercontent.com/77873383/182760989-773a91f1-bcce-4d51-9328-c03372374a70.png)
+**Correct->to chat**
+
+---
+
+- **Comparison**
+
+![image](https://user-images.githubusercontent.com/77873383/182761272-baec5486-b594-4df6-9d06-1e5afa95a417.png)
+**Marks cannotbe compared with person Rahul
+
+![image](https://user-images.githubusercontent.com/77873383/182761316-fe1cdb4d-f83c-4aee-8da7-afc27d6891eb.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/182761424-3c2ed5d8-a4b6-4b63-856c-7c3cff3b5c40.png)
+ 
+ **Anybody is singular but they used in 2nd clause**
+ 
+ ---
+ 
+ ![image](https://user-images.githubusercontent.com/77873383/182761503-ade710c7-bc4b-42dc-816b-704c901cc035.png)
+
+** 2 noun 1 pronoun = X** -> here me will be I
+
+---
+![image](https://user-images.githubusercontent.com/77873383/182761596-d4559b1a-05dc-44d5-bead-6ab1e248b2d1.png)
+
+---
