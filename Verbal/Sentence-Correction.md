@@ -68,6 +68,6 @@
 
 ![image](https://user-images.githubusercontent.com/77873383/182759722-dfff68e9-2012-429f-ab77-e6f9798dc47e.png)
 
-Dont Consider the prepositionaal phase so here in 1st one **Child .....____is__ ...**
+Dont Consider the prepositionaal phase so here in 1st one **Child .....____is____ ...**
 
 ---
