@@ -36,6 +36,27 @@
 - Sentence start with The mostly be the startting sentence
 - Sentence start with this means about this something is previously already spoken
 - Opening sentence use Noun , pairing sentence mostly use Pronoun
+- **GO 1st watch options and Options analysis is most important**
+- Common options in same position has higher probablity of being ans
+![image](https://user-images.githubusercontent.com/77873383/182751401-d07de602-d6a8-444d-8fdf-9a435aa7838c.png)
+
+**Here 3 in 1st pos comes twice so ans may start with 3**
 
 ![image](https://user-images.githubusercontent.com/77873383/182748002-fb80a11e-f956-44e8-8d1d-bc6660895c7c.png)
+
+---
+<br><br><br>
+## QUESTIONS:
+
+![image](https://user-images.githubusercontent.com/77873383/182750024-bec473af-3f86-44eb-95a6-7665172a6299.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/182750558-c4817f36-ec2c-4a46-acbc-b601a0442d49.png)
+
+**Option - A**
+
+---
+
+
 
