@@ -37,4 +37,5 @@
 - Sentence start with this means about this something is previously already spoken
 - Opening sentence use Noun , pairing sentence mostly use Pronoun
 
+![image](https://user-images.githubusercontent.com/77873383/182748002-fb80a11e-f956-44e8-8d1d-bc6660895c7c.png)
 
