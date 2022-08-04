@@ -132,3 +132,44 @@ Last 29X2+29+2=89
 
 ---
 ![image](https://user-images.githubusercontent.com/77873383/182618848-8e9d0e9c-ffe3-4990-ac9b-f7a805f5deff.png)
+
+---
+![image](https://user-images.githubusercontent.com/77873383/182810505-98eef2ed-d679-4591-8efa-8e93576b7a9e.png)
+
+**(COl-1 +col-2)/5=col3)**
+
+---
+![image](https://user-images.githubusercontent.com/77873383/182810908-61b1e632-296d-4b5e-8427-01841ebfc04c.png)
+
+![image](https://user-images.githubusercontent.com/77873383/182811045-893d49d1-0408-4eeb-b910-b317f0d880a1.png)
+**(2X3)+(2+3)=11<br>
+(3X5)+(3+5)=23**
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/182811712-62ac8490-43e9-41a7-8c76-3a6319eef8d6.png)
+
+col1 X col3 + col2 =col4
+
+---
+![image](https://user-images.githubusercontent.com/77873383/182812085-42320051-acae-4cb1-a327-6f76284c5f51.png)
+
+1st row = (5X2) + (3X2) =16
+2nd row = (4X0) + (3X3) =9
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/182812477-33551bf2-9f0b-4f37-b956-a7ea7e468355.png)
+
+10X(10-2) =80 <br>
+8X(8-2) =48 <br>
+9X(9-2) =63
+
+---
+![image](https://user-images.githubusercontent.com/77873383/182812868-5852d42c-269d-4add-ad03-dba36660d06c.png)
+
+48+ 2(taking only one 2 from 22)=50
+<br>
+16+4(only take one 4) =20
+
+---
