@@ -114,3 +114,20 @@ Dont Consider the prepositionaal phase so here in 1st one **Child .....____is___
 ![image](https://user-images.githubusercontent.com/77873383/182761596-d4559b1a-05dc-44d5-bead-6ab1e248b2d1.png)
 
 ---
+
+<br>
+<br>
+
+---
+### QUESTION
+
+![image](https://user-images.githubusercontent.com/77873383/182762906-8c1d3057-6b4f-4915-9f69-98ab0394c53c.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/182763154-4570392e-4567-40fe-97f6-1baeb33cff96.png)
+
+**Probable means uncertain -> so again you dont use may , should , can**
+
+---
+
