@@ -173,3 +173,13 @@ col1 X col3 + col2 =col4
 16+4(only take one 4) =20
 
 ---
+
+![image](https://user-images.githubusercontent.com/77873383/182821965-563093d1-39f4-4a5b-af47-02e7b00b2758.png)
+
+3 cube =27 
+4 cube =64
+
+---
+![image](https://user-images.githubusercontent.com/77873383/182822356-98628606-f649-4d70-aed9-8fa646a5a1bb.png)
+
+---
