@@ -14,3 +14,22 @@
 2/3x : x : 4x
 
 ---
+
+![image](https://user-images.githubusercontent.com/77873383/182849207-e013a102-d293-4d84-9b97-b95292010082.png)
+
+1st =>2:1 => m=40 , w=20 
+<br>
+2nd =1:2 => m=20 , w=40
+
+x= AD-BC/C-D
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/182851048-f4fc70bf-4237-4419-9cfe-7c09190004c9.png)
+
+**At the end add 4000 at the last**
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/182853757-fdbe5a4b-2ffa-409a-b623-7c971dbed89f.png)
+
