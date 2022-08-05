@@ -226,4 +226,11 @@ col1 X col3 + col2 =col4
 ![image](https://user-images.githubusercontent.com/77873383/183015871-e881d5c2-5443-4e4a-beca-7759f570fe57.png)
 
 ---
+![image](https://user-images.githubusercontent.com/77873383/183028104-4dc305c3-dc4d-4cc3-8c97-304647cf5e04.png)
+
+---
+![image](https://user-images.githubusercontent.com/77873383/183028647-3f5362a9-906a-483c-89e5-1951878703d4.png)
+
+---
+
 
