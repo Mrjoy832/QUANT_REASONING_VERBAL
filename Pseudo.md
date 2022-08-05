@@ -32,3 +32,10 @@ ans= 59,garbadge
 
 ---
 
+![image](https://user-images.githubusercontent.com/77873383/183025566-805a8ebd-e4bc-4afd-b60a-faafe6a305af.png)
+
+**Here break means it will not if{}, it will break**=> the full while loop , so while loop ends**
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/183026186-2041d311-317c-4baf-8b51-624475ed79ae.png)
