@@ -233,4 +233,31 @@ col1 X col3 + col2 =col4
 
 ---
 
+![image](https://user-images.githubusercontent.com/77873383/183090582-5e413dc5-f7e5-4a89-80ad-15b97951ffb7.png)
+
+
+(4+5-3)^3=216
+(6+4-2)^3=512
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/183090934-31555a41-15fb-48be-91e0-053eb9c8f556.png)
+
+(101-35)-(43-15)=38
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/183094493-4bceec41-3025-43e3-b456-d1f79880ea9f.png)
+
+5^2 X 4^2 -20 =380
+<br>
+
+7^2 X 4 -20 =176
+
+---
+![image](https://user-images.githubusercontent.com/77873383/183095171-3dcb579a-f7d5-4b28-aa40-0aaf90d95e3a.png)
+
+---
+
+
 
