@@ -17,3 +17,15 @@ in st. there is not any comparsion of payment between 1st class and internaional
 
 ---
 
+-> Combinations will be such a way such that it  will make a paragraphical sense
+
+![image](https://user-images.githubusercontent.com/77873383/183056424-fab204b2-969e-493b-bbbf-6f5250a172b6.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/183056754-823fab7c-b8df-44e8-92f2-f46616cfbdef.png)
+
+-> No fool is always succesfull
+-> but there is nothing about fools , so all fools may be successful or unsuccessful
+
+---
