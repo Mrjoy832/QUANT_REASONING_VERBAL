@@ -39,3 +39,25 @@ ans= 59,garbadge
 ---
 
 ![image](https://user-images.githubusercontent.com/77873383/183026186-2041d311-317c-4baf-8b51-624475ed79ae.png)
+
+
+
+
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/183132631-d0b8d2dc-9607-4ecf-b052-90e663778e66.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/183132894-c61a35b2-33dc-4608-841a-8ed80f805243.png)
+
+**Here Z=(y++,y) , comma means 2 opeartions are performed
+
+```cpp
+int x=4,y=0
+int z
+z=y++;// z=(y++,y) means 2 line of operations
+z=y
+print z;
+```
