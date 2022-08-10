@@ -91,3 +91,42 @@
 4. all b are not c jdi hoy tahole b r kichu part "some b" are also not c
 5. No A is C is definite , ekahne possible bola ache so wrong
 6. some B are A is definite , ekahne pos bola ache tai wrong 
+```
+
+---
+## Either OR
+
+![image](https://user-images.githubusercontent.com/77873383/183897542-8d7265ad-3410-410e-85ae-bd447c3d49cc.png)
+
+![image](https://user-images.githubusercontent.com/77873383/183898479-7bab773d-8c28-4f50-a794-80624daa5d73.png)
+
+```
+Complemenetory pairs= either or
+Exception pairs are not either or
+```
+
+![image](https://user-images.githubusercontent.com/77873383/183900160-d68f36fc-1487-4eeb-9e9a-2feab81c578e.png)
+
+```
+1. 2. not definite , cannot say anything  so wrong 
+4. also wrong 
+But either 1 or 4 (some-no pair) 
+```
+---
+
+![image](https://user-images.githubusercontent.com/77873383/183901141-f7bbd831-44bb-4b8f-aa14-a40021315036.png)
+
+``` 
+1,2 false and they make some-no pair so either 1 or 2
+3. B janena D ke .. so sob possible case right
+4. A jnena D ke ..So sob poss is right
+```
+
+![image](https://user-images.githubusercontent.com/77873383/183901961-552da27c-44ee-4ac6-b4b0-ea175a18324c.png)
+
+![image](https://user-images.githubusercontent.com/77873383/183902491-7b1d21a5-fe22-4ed5-af4a-d7494a8afbdc.png)
+```
+1. no hour is sec , some sec period , so -> some of the period is not hour
+2. by same 2 is also right
+3. no sec is hour tar mane some sec is not hour
+```
