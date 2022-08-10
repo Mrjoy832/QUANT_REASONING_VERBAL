@@ -25,3 +25,45 @@
 - All A are B  <-> some B are A
 - some A are B <-> some B are A
 - when common are X in both suppose A-B , B-c and B is X in both then thwre is no rltn between A,C
+
+---
+---
+
+# THEORY :
+## Using Venn diagram
+
+![image](https://user-images.githubusercontent.com/77873383/183835060-0f211728-1ac8-4aef-b06b-dc0c3ead7d99.png)
+
+![image](https://user-images.githubusercontent.com/77873383/183835619-9b12914e-fc0b-43de-a2ba-3da93fa81f21.png)
+
+
+### Venn
+
+![image](https://user-images.githubusercontent.com/77873383/183836224-f8d5969e-3a85-4ec0-92c9-b271ee94ad1b.png)
+[1st one is ```some A are B``` , next one is taken as conclusion , so take 1st one always
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/183836441-a5db40c3-4901-4471-8999-b6dee0ffff87.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/183836675-986377f9-dcf0-43d9-8754-ad47c8ba8822.png)
+
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/183836842-e2d110f0-77b6-4e88-9742-a61b484f9b15.png)
+
+---
+
+### Conclusion:
+- Definite: the conclusion which is directly viisble in the ven
+- Possible: not visible in ven but may be possible , we cannot ignore
+
+-
+![image](https://user-images.githubusercontent.com/77873383/183838070-ae383b34-3c8c-4cc3-9ca8-daf1d7ab2453.png)
+
+
+
+
