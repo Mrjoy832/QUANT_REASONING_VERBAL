@@ -69,3 +69,25 @@
 ![image](https://user-images.githubusercontent.com/77873383/183839731-9228c01a-dd06-4528-aa0a-ddc9bf729ceb.png)
 
 -
+## 3 Notes:
+
+![image](https://user-images.githubusercontent.com/77873383/183892501-91773faf-483c-4263-9c88-def8a12e04b8.png)
+
+![image](https://user-images.githubusercontent.com/77873383/183894045-5cb8ebfa-1d47-4da2-9149-d3088e6609a4.png)
+
+![image](https://user-images.githubusercontent.com/77873383/183895317-a0fbe87c-d9d4-43e0-8a5c-9db4eb337dba.png)
+
+
+
+---
+### ***Important
+![image](https://user-images.githubusercontent.com/77873383/183895243-0a8307d2-5634-4f66-9bc4-9faf9033fc33.png)
+
+
+
+![image](https://user-images.githubusercontent.com/77873383/183896189-ee9fda15-6e71-437a-8447-237b38065d1d.png)
+
+```
+4. all b are not c jdi hoy tahole b r kichu part "some b" are also not c
+5. No A is C is definite , ekahne possible bola ache so wrong
+6. some B are A is definite , ekahne pos bola ache tai wrong 
