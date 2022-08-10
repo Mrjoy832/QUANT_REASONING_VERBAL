@@ -130,3 +130,39 @@ But either 1 or 4 (some-no pair)
 2. by same 2 is also right
 3. no sec is hour tar mane some sec is not hour
 ```
+
+---
+# Only and Only few
+
+## Only 
+![image](https://user-images.githubusercontent.com/77873383/183907036-eb5e409e-89f6-40d3-b446-9710733a9eab.png)
+-> And also Where ```only``` is used means B cannot make any rltn with 3rd person 
+
+![image](https://user-images.githubusercontent.com/77873383/183907357-561a2177-4450-49ba-9406-67f8d4d9669a.png)
+
+
+
+---
+### few = some
+
+## Only few
+
+only a few A are B that means ```only a some part of A is B but rest of A is not B```
+
+![image](https://user-images.githubusercontent.com/77873383/183908068-e1bbdaea-ea84-4dcd-884b-535f254ebf01.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/183909508-f20edc4c-cdd3-4400-9401-0ec01a8e19ee.png)
+
+![image](https://user-images.githubusercontent.com/77873383/183910154-3ee4915f-11e5-4c47-94d1-5d337da3f62c.png)
+
+![image](https://user-images.githubusercontent.com/77873383/183910773-4c46d9ef-7ea0-4872-ab7b-a80595b73d65.png)
+
+![image](https://user-images.githubusercontent.com/77873383/183911598-d32c777d-718f-4a8e-82b3-d264a103b571.png)
+
+![image](https://user-images.githubusercontent.com/77873383/183911939-cd94f55e-96f0-433b-bcb6-e338c8dade12.png)
+
+#### parini
+![image](https://user-images.githubusercontent.com/77873383/183912447-0ea839e5-9412-42c1-98f7-1838acdc83b0.png)
+
