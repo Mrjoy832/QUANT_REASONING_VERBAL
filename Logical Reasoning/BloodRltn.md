@@ -5,3 +5,8 @@
 
 ---
 
+![image](https://user-images.githubusercontent.com/77873383/184197918-d8a54924-f311-4ed1-9161-6821b9a0df3a.png)
+
+```Always 1st draw the part including 'my..'```
+
+---
