@@ -33,3 +33,10 @@ x= AD-BC/C-D
 
 ![image](https://user-images.githubusercontent.com/77873383/182853757-fdbe5a4b-2ffa-409a-b623-7c971dbed89f.png)
 
+---
+
+![image](https://user-images.githubusercontent.com/77873383/184062511-3bcc2db4-c214-4764-9ada-c90b1d28612c.png)
+
+![image](https://user-images.githubusercontent.com/77873383/184062527-5b30653d-9b1c-4b39-adca-2bbdc9348351.png)
+
+---
