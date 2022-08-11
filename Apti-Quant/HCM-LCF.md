@@ -58,5 +58,9 @@ we do HCF
 
 ---
 
+![image](https://user-images.githubusercontent.com/77873383/184057331-f529d2ef-1ad3-4161-b29a-c0ba91426be5.png)
 
+x=(k+r) [k= lcm of the numbers]
+
+---
 
