@@ -87,6 +87,8 @@
 
 ![image](https://user-images.githubusercontent.com/77873383/183896189-ee9fda15-6e71-437a-8447-237b38065d1d.png)
 
+
+>> 
 ```
 4. all b are not c jdi hoy tahole b r kichu part "some b" are also not c
 5. No A is C is definite , ekahne possible bola ache so wrong
