@@ -24,3 +24,37 @@
 
 ---
 
+# TCS NQT 🎯
+
+![image](https://user-images.githubusercontent.com/77873383/184545413-a93cd588-56a7-44c9-bb21-b6fa0ee62dee.png)
+![image](https://user-images.githubusercontent.com/77873383/184545437-27bb3fe3-c221-489f-b01c-d9359cf09689.png)
+
+```
+2020 nums of 9 
+so ans = (999....2019th) 8 (000---2019th) 1 , total digit= 2040
+```
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/184545566-16c6a009-7250-4bff-800d-dfc3b59c1fd1.png)
+```
+for cube = (n-1 9's) 7 (n-1 0's) 2 number-itself
+
+999 = (2 9's) 7 (2 0's) 2 999=997002999
+```
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/184545766-971155a6-550b-4a32-9a58-723d59f5265a.png)
+
+```
+n=xX406+115
+so divide our number n now 29
+n/29=xX406/29 + 115/29 === reminder comes 28
+```
+
+---
+
+
+
+
