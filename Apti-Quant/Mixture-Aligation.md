@@ -33,3 +33,11 @@
 ![image](https://user-images.githubusercontent.com/77873383/182073001-b10ce02a-5d51-4ebf-b60a-5651151be0e3.png)
 
 ---
+
+# 🙄TCS NQT
+
+![image](https://user-images.githubusercontent.com/77873383/184959163-856de411-58ad-4114-8d02-44c2a3e48a0a.png)
+
+---
+
+
