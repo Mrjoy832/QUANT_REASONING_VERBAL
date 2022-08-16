@@ -49,3 +49,20 @@ we have to decresae mean by 1.5 so to get mean =median . so replace 65 with 65-1
 Mean Deviation != Variance != std. deviation
 
 ---
+![image](https://user-images.githubusercontent.com/77873383/184893767-cf54090f-75e2-41d5-b166-dc904aa10cee.png)
+
+30X34 - 29X33= 63
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/184894245-f96e1581-7c02-445c-8a68-2c3b2ae1411b.png)
+
+![image](https://user-images.githubusercontent.com/77873383/184894281-48d37553-f01b-4805-a0de-5fa78e248547.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/184894682-9a1a8136-666c-4d7d-a94f-213946ce5e73.png)
+
+![image](https://user-images.githubusercontent.com/77873383/184894755-3db33936-97a3-4240-abbe-e2d779e7bad0.png)
+
+---
