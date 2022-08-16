@@ -36,3 +36,16 @@ given that we have to change max value from data so that mean =median , so have 
 we have to decresae mean by 1.5 so to get mean =median . so replace 65 with 65-1.5X8 =53
 
 ---
+
+## Read formula of Mean,Median ,Mode of Gruped Data AGain Right Now
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/184891560-232b1752-1a55-4f35-b664-43dc5bc05abd.png)
+
+![image](https://user-images.githubusercontent.com/77873383/184891667-f72f2202-45f0-465c-9316-2fd25cc88d68.png)
+
+
+Mean Deviation != Variance != std. deviation
+
+---
