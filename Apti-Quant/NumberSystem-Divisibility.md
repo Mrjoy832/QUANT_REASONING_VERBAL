@@ -56,5 +56,19 @@ n/29=xX406/29 + 115/29 === reminder comes 28
 ---
 
 
+![image](https://user-images.githubusercontent.com/77873383/184821688-1935e5e8-fbae-400e-958d-08d3461a3c9e.png)
+
+Number **A4531B**<br>
+
+<ins>if a number X is divisible by P then X must be divisible by all factors of p</ins>
+so num to be div by 72 must also be div by 8 , 9
+<br>
+For 8-> 31B must be div by 8 -> for this B will be =2
+<br>
+For 9 -> sum of digits div by 9 -> SO A=3
+<br>
+Now factors of A+B=5= 1,5 so 2
+
+---
 
 
