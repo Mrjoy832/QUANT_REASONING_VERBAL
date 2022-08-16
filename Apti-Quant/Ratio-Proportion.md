@@ -40,3 +40,21 @@ x= AD-BC/C-D
 ![image](https://user-images.githubusercontent.com/77873383/184062527-5b30653d-9b1c-4b39-adca-2bbdc9348351.png)
 
 ---
+
+# 😛 TCS NQT
+
+**PROPERTY:**
+![image](https://user-images.githubusercontent.com/77873383/184941742-e26bb0f1-6a6f-4935-91e1-a531866c0064.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/184943677-3b5c83f5-c2ad-4c6e-86c7-713a83e4872d.png)
+![image](https://user-images.githubusercontent.com/77873383/184943805-ea576c63-9405-4eb6-b1b1-5b8eeea50145.png)
+
+---
+![image](https://user-images.githubusercontent.com/77873383/184944221-6e90d6aa-bbcb-42d3-94f6-4ff309c92563.png)
+
+![image](https://user-images.githubusercontent.com/77873383/184944296-583776a3-6f5f-4779-bc13-02964613f436.png)
+
+---
+
