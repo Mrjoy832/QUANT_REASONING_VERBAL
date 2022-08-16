@@ -28,3 +28,40 @@
 
 ---
 
+# TCS NQT 🤩
+
+![image](https://user-images.githubusercontent.com/77873383/184801216-a143e4ca-d8ba-4f5b-8415-c888cda77218.png)
+
+```
+100kg frsh fruit -> 68kg water so , **actual fruit**=32kg
+Suppose Y kg dry fruit , 80% actual fruit so ```80/100 X y = 32```
+```
+---
+
+![image](https://user-images.githubusercontent.com/77873383/184802154-e151a923-f675-46ad-b07f-76ef363bd591.png)
+
+y+ 1.2y+ 1.44y=364
+[after 1st yr =1.2y after 2nd =1.44y]
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/184804430-1ec98079-d131-4ba7-8504-ef7118c77e7f.png)
+
+![image](https://user-images.githubusercontent.com/77873383/184804446-c14cf45a-5fa2-4743-b81a-a08b41a41f3b.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/184807189-cc859fe0-2b5f-4ffb-ab73-c166f2065157.png)
+![image](https://user-images.githubusercontent.com/77873383/184807213-f59d11cd-40d3-4a72-8144-76853e9aff20.png)
+
+---
+![image](https://user-images.githubusercontent.com/77873383/184807670-c5e00b60-f525-4852-b8ff-de97f1aeecd7.png)
+
+![image](https://user-images.githubusercontent.com/77873383/184807691-25e8c5d5-aff8-4a09-9a67-1af83513ffb9.png)
+
+```here total loss percentage is calculated```
+
+---
+
+
+
