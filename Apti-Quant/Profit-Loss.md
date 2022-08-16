@@ -11,3 +11,15 @@
 ![image](https://user-images.githubusercontent.com/77873383/184068505-b35d7cc6-7ef7-4c5d-9964-8b47ead91cfe.png)
 
 ---
+
+#  😁 TCS NQT
+
+![image](https://user-images.githubusercontent.com/77873383/184916018-8fd1a055-e4cb-48cc-bff9-0f744ab120e4.png)
+
+---
+![image](https://user-images.githubusercontent.com/77873383/184916754-96fcce3c-c01e-4db6-8840-6723ed3abeee.png)
+
+## ⬆⬆⬆⬆ Above 2 questions are imp
+
+---
+
