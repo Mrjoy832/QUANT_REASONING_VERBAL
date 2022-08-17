@@ -14,3 +14,6 @@
 
 ---
 
+## TRICKS
+
+![image](https://user-images.githubusercontent.com/77873383/185078231-4d6bbb7a-c63e-433e-b7aa-c4329e6679f9.png)
