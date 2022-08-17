@@ -187,3 +187,11 @@ only a few A are B that means ```only a some part of A is B but rest of A is not
 ![image](https://user-images.githubusercontent.com/77873383/185177935-19951d96-838f-4056-ad41-1d4c773d97ef.png)
 
 ---
+
+![image](https://user-images.githubusercontent.com/77873383/185192961-0a9b8104-df16-47be-abd4-2fdf6e79ce92.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185193095-c5af7357-1d0d-4323-a119-e19f7ba95890.png)
+
+---
