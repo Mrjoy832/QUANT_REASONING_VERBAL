@@ -8,4 +8,9 @@
 - https://www.indiabix.com/verbal-reasoning/seating-arrangement/
 
 
+# 😎 TCS NQT
+
+![image](https://user-images.githubusercontent.com/77873383/185058461-489847e3-e099-403d-9b3c-732b8b3d971e.png)
+
+---
 
