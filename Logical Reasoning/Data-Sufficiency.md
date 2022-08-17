@@ -65,4 +65,34 @@ Only ST-1
 ![image](https://user-images.githubusercontent.com/77873383/182600039-06092ca7-50fb-478e-9d7b-37a3f78edc5e.png)
 
 ---
+---
+# 😎 TCS NQT
+
+### TRICKS
+-> Suppose 
+
+![image](https://user-images.githubusercontent.com/77873383/185037098-f837d18c-0392-490d-b22c-2336316f6b0b.png)
+
+Option A is wrong i.e. by I we cannot that means option C also wrong cut down these bcz C says by I or II individually we can do
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185037455-61e62b8d-4c38-4355-a779-98394ae3cdba.png)
+
+---
+![image](https://user-images.githubusercontent.com/77873383/185037783-f21c006e-1c0c-48b3-8374-38251a6f116c.png)
+
+---
+
+### in question Is asked is X+y>100 and by option if we can say yes or no that option suffcient .
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185039334-6480b45f-5acc-44ab-8e9a-31956d6cc34f.png)
+
+---
+# MAY BE
+![image](https://user-images.githubusercontent.com/77873383/185040147-fc558ba8-8799-4ea6-b59f-6be8c897becc.png)
+
+---
 
