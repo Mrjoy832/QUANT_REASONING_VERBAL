@@ -17,3 +17,11 @@
 ## TRICKS
 
 ![image](https://user-images.githubusercontent.com/77873383/185078231-4d6bbb7a-c63e-433e-b7aa-c4329e6679f9.png)
+
+--
+## Just Read Shadow carefully from Copy
+
+![image](https://user-images.githubusercontent.com/77873383/185135931-bff6999b-81b8-4562-8d49-133bc7e7d7e4.png)
+
+#### Do by on -> for recap
+---
