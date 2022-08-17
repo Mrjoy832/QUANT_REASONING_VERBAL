@@ -168,3 +168,22 @@ only a few A are B that means ```only a some part of A is B but rest of A is not
 #### parini
 ![image](https://user-images.githubusercontent.com/77873383/183912447-0ea839e5-9412-42c1-98f7-1838acdc83b0.png)
 
+
+----
+---
+---
+
+## TCS NQT:
+
+### IMP
+
+![image](https://user-images.githubusercontent.com/77873383/185177042-35f28adc-b21c-473e-be35-586cf2d0257d.png)
+
+---
+![image](https://user-images.githubusercontent.com/77873383/185177527-a3422447-ed6b-4596-88e5-6c056fa26340.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185177935-19951d96-838f-4056-ad41-1d4c773d97ef.png)
+
+---
