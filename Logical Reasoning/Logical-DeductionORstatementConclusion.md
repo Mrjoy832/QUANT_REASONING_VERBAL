@@ -41,6 +41,9 @@ in st. there is not any comparsion of payment between 1st class and internaional
 ### ST. & Conclusion:
 ![image](https://user-images.githubusercontent.com/77873383/185100737-a83eaa97-fd8a-4f0c-9d24-376bfd17c777.png)
 
+
+- if any advice or result relavent of statement is given that may be considered aas true
+
 ---
 ### ST. & Arguments
 
