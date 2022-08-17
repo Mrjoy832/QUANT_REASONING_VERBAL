@@ -10,3 +10,9 @@
 ```Always 1st draw the part including 'my..'```
 
 ---
+# TCS NQT:
+
+![image](https://user-images.githubusercontent.com/77873383/185026473-c84dc545-11f9-42d6-ab6e-f4c3d7b748b6.png)
+![image](https://user-images.githubusercontent.com/77873383/185026490-a465b4a6-88d6-443f-b111-216ada0c5e0d.png)
+
+---
