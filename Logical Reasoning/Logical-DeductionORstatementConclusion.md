@@ -28,4 +28,59 @@ in st. there is not any comparsion of payment between 1st class and internaional
 -> No fool is always succesfull
 -> but there is nothing about fools , so all fools may be successful or unsuccessful
 
+
 ---
+---
+
+# 😣 TCS NQT
+
+---
+![image](https://user-images.githubusercontent.com/77873383/185099672-ce4799b5-c078-4c9d-b3d3-9db53e2e9080.png)
+
+---
+### ST. & Conclusion:
+![image](https://user-images.githubusercontent.com/77873383/185100737-a83eaa97-fd8a-4f0c-9d24-376bfd17c777.png)
+
+---
+### ST. & Arguments
+
+```
+Dont use own GK
+STRONG =Which need to be done
+WEAK=I am not supportive of this option
+```
+![image](https://user-images.githubusercontent.com/77873383/185101345-848b2678-f48a-4c05-8113-1c73b4c104f7.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185101618-70569f93-ee56-48bd-ab5a-caf6b9e76608.png)
+
+-> NEITHER
+
+---
+---
+
+### ST. and Assum
+
+```
+Implicit = assumption true
+Explicit = False
+```
+![image](https://user-images.githubusercontent.com/77873383/185102043-1a0e2a35-b975-4acb-aa1a-27d32c82099f.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185102215-a48bdf39-509b-4b15-9f5d-fa25d02da98c.png)
+
+Here is Example St is generalized as talked about Men/women both but assum is specific to female so explicit
+
+---
+
+### St. and Coruse -of -Action
+
+```will be given any statement of event , and regarding the event some actions in option are given . U have to choose most accrutae action not by emotion  by only st```
+
+![image](https://user-images.githubusercontent.com/77873383/185103098-627fdafd-f34d-40b7-9cd9-9d07672214a8.png)
+
+---
+
