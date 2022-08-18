@@ -48,3 +48,10 @@ in 1 day A+B = 1/9<br>
 in 1 day 3A+.5B = 1//6
 
 ---
+
+![image](https://user-images.githubusercontent.com/77873383/185279748-90f64da6-724a-4799-ab92-13fc95ff0cb1.png)
+
+![image](https://user-images.githubusercontent.com/77873383/185279795-efb8dc86-b76c-4a71-887b-c1bf12cf36cb.png)
+
+
+---
