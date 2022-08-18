@@ -58,5 +58,15 @@
 
 ---
 
+# TCS NQT
+
+
+![image](https://user-images.githubusercontent.com/77873383/185431488-073e3d04-0134-482d-89db-d8dcf61b188b.png)
+
+
+![image](https://user-images.githubusercontent.com/77873383/185431715-6d84d7f3-2f68-4e3e-b5fd-e699ab438e26.png)
+
+
+![image](https://user-images.githubusercontent.com/77873383/185432858-b119f31d-b7a2-48a3-b327-56589440fae4.png)
 
 
