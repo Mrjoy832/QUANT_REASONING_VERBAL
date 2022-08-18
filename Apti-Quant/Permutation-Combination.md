@@ -36,3 +36,25 @@
 ![image](https://user-images.githubusercontent.com/77873383/182021800-3e024b1b-e4fe-404f-b6ff-2a752fa1c78c.png)
 
 ![image](https://user-images.githubusercontent.com/77873383/182021810-e926723b-556a-46c0-9ea1-3452760096ac.png)
+
+
+
+---
+
+---
+
+# TCS NQT:
+
+**For some or all at a time case / one or more letter**
+
+![image](https://user-images.githubusercontent.com/77873383/185309972-f48a6e0f-95a2-46cf-b746-dbe272af2c1f.png)
+
+---
+
+**Most imp**
+
+![image](https://user-images.githubusercontent.com/77873383/185311637-d975269e-0a17-41eb-a2b4-c7c3d9f5b60d.png)
+
+
+---
+
