@@ -58,6 +58,12 @@ Also Count (2,2), (4,4), (6,6)
 
 ---
 
+# TCS NQT 🙂
 
+If sum is  1-6 1st firmula if sum = 7-12 second one and r=no of dice
+
+![image](https://user-images.githubusercontent.com/77873383/185378767-3af8d0bb-7636-4df0-8aed-2aa09e98e0ce.png)
+
+---
 
 
