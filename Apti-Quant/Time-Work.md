@@ -29,3 +29,22 @@
 Amount will be divided by eff ratio . Here eff ratio = 3:2
 
 ---
+
+![image](https://user-images.githubusercontent.com/77873383/185276865-06fd2454-bdf8-480b-8631-fa494941cfcf.png)
+
+```
+LCM of 5,4 =20 
+suppose total work they do together =20
+
+initially , H+w = 20/5 =4ice cream/day
+later      2H+.5w=20/4=5 ice cream /day
+solve these 2 get ans H
+```
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185278433-2cf73a9a-588b-47e8-af92-691732a1e7f7.png)
+
+in 1 day A+B = 1/9<br>
+in 1 day 3A+.5B = 1//6
+
+---
