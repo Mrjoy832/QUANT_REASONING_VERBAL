@@ -63,3 +63,14 @@ Reverse then +1 except 1st and last one
 ![image](https://user-images.githubusercontent.com/77873383/185542932-770ae75f-eaf9-46b4-a11c-358b6aec2bea.png)
 
 ---
+
+![image](https://user-images.githubusercontent.com/77873383/185544804-70a86e3f-c495-41ab-a18d-1cb99eb97521.png)
+
+![image](https://user-images.githubusercontent.com/77873383/185544818-de093e41-7fc8-4a15-8582-a4c4e2e79f8b.png)
+
+---
+![image](https://user-images.githubusercontent.com/77873383/185544986-180ea5f8-561d-434f-86fb-27f8d6f74b43.png)
+
+![image](https://user-images.githubusercontent.com/77873383/185544994-65f5cada-e19b-45f7-b89b-0a81a3e3084f.png)
+
+---
