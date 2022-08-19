@@ -12,6 +12,9 @@ What ever is have to calculate take that A:B and another C:D
 
 ---
 
+![image](https://user-images.githubusercontent.com/77873383/185614081-678a1496-e00e-4d48-ae4a-4e473da96b5a.png)
+
+
 ![image](https://user-images.githubusercontent.com/77873383/185610750-7b282b5a-b1aa-4997-8269-3c4b693c2950.png)
 
 4 yr ago age = 4X11 and 4 yr later age = 4X13 so current age = 44+4 or 52-4 ==48
@@ -42,3 +45,18 @@ What ever is have to calculate take that A:B and another C:D
 ---
 
 ![image](https://user-images.githubusercontent.com/77873383/185611461-5ca70368-aad0-4fc5-9dc1-9a4af57502a2.png)
+
+---
+
+
+https://user-images.githubusercontent.com/77873383/185613117-3c3410d4-ee5b-4d5f-975b-38875e04a1ad.mp4
+
+
+---
+
+
+
+https://user-images.githubusercontent.com/77873383/185614391-3054c576-1e18-4e2d-a179-84d7bac1c93c.mp4
+
+---
+
