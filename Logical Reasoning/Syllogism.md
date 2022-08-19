@@ -194,4 +194,5 @@ only a few A are B that means ```only a some part of A is B but rest of A is not
 
 ![image](https://user-images.githubusercontent.com/77873383/185193095-c5af7357-1d0d-4323-a119-e19f7ba95890.png)
 
+Some z P means == Some P are z, after that u can get either or
 ---
