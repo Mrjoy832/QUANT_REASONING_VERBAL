@@ -188,4 +188,40 @@ Subject closest to verb -> Choose
 
 ![image](https://user-images.githubusercontent.com/77873383/185522356-c16173ff-60e8-49f6-b900-5065af2aae4b.png)
 
+---
 
+- ```Error Modify```
+
+![image](https://user-images.githubusercontent.com/77873383/185522821-0a8a73c1-81da-4ea8-8514-1cfe0b7fd83a.png)
+
+![image](https://user-images.githubusercontent.com/77873383/185522873-94aa6185-4559-48cc-901c-de899ba97dde.png)
+
+![image](https://user-images.githubusercontent.com/77873383/185522953-249b9777-5e1c-4495-9e82-e5822236aa28.png)
+
+![image](https://user-images.githubusercontent.com/77873383/185523030-73e480be-1180-4470-99b5-f61bcf9ed8e6.png)
+
+---
+
+- ```Parallelism error```
+
+In same sentence verbs are in  diff forms
+
+![image](https://user-images.githubusercontent.com/77873383/185523233-20a7f500-fff6-4a9d-95c6-62be5fe88d06.png)
+
+![image](https://user-images.githubusercontent.com/77873383/185523332-abaca68e-7e7b-4341-b303-8569d233cb0e.png)
+
+![image](https://user-images.githubusercontent.com/77873383/185523447-ca6cec27-4798-4fee-a5ed-ed10d4981fed.png)
+
+![image](https://user-images.githubusercontent.com/77873383/185523524-21e58b54-1391-4db9-91b7-f660c34cc1fa.png)
+
+---
+
+- ```Comparison Err```
+
+comaprison btw marks with person
+
+![image](https://user-images.githubusercontent.com/77873383/185523667-6a205cb1-5de7-4e01-ae64-df0cb3bfabbc.png)
+
+<br>
+
+![image](https://user-images.githubusercontent.com/77873383/185523723-80d85c11-91f2-445c-86e4-368f4e8d777d.png)
