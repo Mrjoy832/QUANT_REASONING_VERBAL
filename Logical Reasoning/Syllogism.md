@@ -198,3 +198,6 @@ Some z P means == Some P are z, after that u can get either or
 ---
 
 
+![image](https://user-images.githubusercontent.com/77873383/185567088-8aefa12e-8705-4aa9-a22a-6d3e44c74fe1.png)
+
+---
