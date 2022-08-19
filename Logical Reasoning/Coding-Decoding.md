@@ -40,6 +40,26 @@ Sum of Vowel letters
 
 # 😎 TCS NQT 
 
+![image](https://user-images.githubusercontent.com/77873383/185541962-241ded95-d682-4c9f-9ad1-bcaa97f2d2a8.png)
 
+---
 
+![image](https://user-images.githubusercontent.com/77873383/185542318-5d16b81d-667a-4dd5-a4c4-3a2290b14cd4.png)
 
+Use brain, when u write 1st 3 eqn there is coming decimal so last is correct and in these type question always start check from last option . Examineer knows that baccha will start from 1st
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185542568-3ded67e2-07fd-49ee-a96f-c597500876aa.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185542796-de693bb1-c968-4df9-b3ad-a1f00649ef07.png)
+
+Reverse then +1 except 1st and last one
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185542932-770ae75f-eaf9-46b4-a11c-358b6aec2bea.png)
+
+---
