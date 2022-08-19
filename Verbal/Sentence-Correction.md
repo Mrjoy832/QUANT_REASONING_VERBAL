@@ -130,4 +130,62 @@ Dont Consider the prepositionaal phase so here in 1st one **Child .....____is___
 **Probable means uncertain -> so again you dont use may , should , can**
 
 ---
+---
+
+
+# TCS ION COURSE CONTENT 😍😍
+
+- ```SUBJECT VERB AGREEMENT```
+
+![image](https://user-images.githubusercontent.com/77873383/185520212-75f5c2dd-fd94-45be-a5bc-b8f90dcd5049.png)
+
+![image](https://user-images.githubusercontent.com/77873383/185520685-827e5ec2-06ca-4f15-b5cd-c6b03e9f0110.png)
+
+- ```Words take Singular Verb```
+
+![image](https://user-images.githubusercontent.com/77873383/185520844-5c2deb99-fbb8-44fb-ab2b-bd8acf93638b.png)
+
+![image](https://user-images.githubusercontent.com/77873383/185520899-b0d6794c-4e34-419a-851b-82dec5f77fff.png)
+
+**All above this takes singular verb**
+
+
+- ```Non intervention principle```
+
+![image](https://user-images.githubusercontent.com/77873383/185521340-db2055c5-64ab-40a0-80fa-a177e794bbf9.png)
+
+
+---
+
+whenever there is prepositional phrase dont consider these in main sentence 
+
+![image](https://user-images.githubusercontent.com/77873383/185521218-5f42f670-a537-486d-9d41-b2885d0a8480.png)
+
+---
+
+- ```Proximity Principle```
+
+![image](https://user-images.githubusercontent.com/77873383/185521507-9349c4ed-b6b1-4ced-9427-1d07b95e7dfa.png)
+
+Any one btw me or mom cook 
+
+---
+
+Subject closest to verb -> Choose
+
+![image](https://user-images.githubusercontent.com/77873383/185521764-e8f90fbc-8cc9-412c-8fab-7690384e977b.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185522034-3886a1e9-6d00-4453-be22-81612bd10c91.png)
+
+
+---
+
+- ```Collective Noun```
+
+![image](https://user-images.githubusercontent.com/77873383/185522327-9855992a-2b09-4564-bc5b-b4c67e9dfcf6.png)
+
+![image](https://user-images.githubusercontent.com/77873383/185522356-c16173ff-60e8-49f6-b900-5065af2aae4b.png)
+
 
