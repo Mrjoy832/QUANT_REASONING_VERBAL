@@ -196,3 +196,5 @@ only a few A are B that means ```only a some part of A is B but rest of A is not
 
 Some z P means == Some P are z, after that u can get either or
 ---
+
+
