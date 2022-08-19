@@ -281,4 +281,79 @@ To express quality of adj-> Adv
 ![image](https://user-images.githubusercontent.com/77873383/185527973-a2aaec5e-d6cd-4d54-bd24-d85645289168.png)
 
 
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185528489-08be9461-e07c-4663-acb0-329ea6c2cb8b.png)
+
+![image](https://user-images.githubusercontent.com/77873383/185528515-d5cb44c9-5859-4a79-a69d-128e65909f65.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185528869-3b209587-10c7-42a3-b15f-06377568358d.png)
+
+![image](https://user-images.githubusercontent.com/77873383/185528923-73869d4d-5998-40c7-b31c-f74f4576d615.png)
+
+---
+![image](https://user-images.githubusercontent.com/77873383/185532697-3d83ca13-ce1a-4f4f-80cc-5d8517a56fbf.png)
+
+![image](https://user-images.githubusercontent.com/77873383/185532709-8ad26473-dfa1-4377-96c7-66c9824c66d4.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185533102-74a16234-3075-4b94-94e4-af97587553bd.png)
+
+
+---
+
+Autistic = Baccha like tare zamen par
+
+![image](https://user-images.githubusercontent.com/77873383/185533327-9c05a916-e484-4f51-a83c-67fc93222672.png)
+
+---
+
+patriarchal = taughts in society , priority of men over women 
+<br> palliative = temporary relief
+<br> parochial = chota soch
+
+![image](https://user-images.githubusercontent.com/77873383/185533612-26809922-eced-4a9d-be71-6af7e2f2abe1.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185533721-9cad3438-e97f-493c-a5df-a02eb9847f3b.png)
+
+agar yesa kiya hota to ye ho jata -> then ```if + past perfect , would + have + past ``` 
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185533922-ed7f1450-af49-4ab6-81ba-210847c484ab.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185534612-40c163ce-a4fd-4715-bfd2-4d454d76539b.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185534725-08d3973e-651e-40aa-828d-cfc925aca6ea.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185535075-9c7f9eca-8e84-4037-9bc8-a658fac0c8b8.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185535192-7956c3c7-90f9-4622-9de3-0a2d1457f37a.png)
+
+if -> would
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185535580-8c6d5eda-7c01-4d5a-b824-bfe20c96580a.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185535723-968ead4c-0310-4ced-a94b-1bae58774711.png)
+
+
+
+
 
