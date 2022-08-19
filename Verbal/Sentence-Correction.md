@@ -225,3 +225,60 @@ comaprison btw marks with person
 <br>
 
 ![image](https://user-images.githubusercontent.com/77873383/185523723-80d85c11-91f2-445c-86e4-368f4e8d777d.png)
+
+
+---
+
+---
+
+---
+
+# TCS NQT
+
+
+![image](https://user-images.githubusercontent.com/77873383/185526741-a0054d31-68e2-4c31-89ec-668f658679c7.png)
+
+![image](https://user-images.githubusercontent.com/77873383/185526809-a271a73a-19a4-44bb-a64b-c7f693f912b2.png)
+
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185526866-bd9b7a06-4a6d-4047-bef6-f279f6a26a56.png)
+
+### Btw vs among 
+
+![image](https://user-images.githubusercontent.com/77873383/185527000-b0599174-dd7e-41f2-9bb8-c87255a87906.png)
+
+---
+![image](https://user-images.githubusercontent.com/77873383/185527195-a687f2ab-8c69-4624-8fc1-53b9153c58ea.png)
+
+### shall vs will
+
+![image](https://user-images.githubusercontent.com/77873383/185527291-c9b468e2-ba9c-4fe7-8e45-289b5a30afa4.png)
+
+But in case of **Strong Determination(have to do like thing )** rule reversed
+
+---
+
+2 adjective never come toghether <br>
+To express quality of Noun-> Adj
+<br>
+To express quality of adj-> Adv
+
+![image](https://user-images.githubusercontent.com/77873383/185527596-2fdfb241-81a3-42cc-8b8c-a09c0412aaa9.png)
+
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185527722-0fc82201-ed88-44ae-8f68-49ff6ba6adf5.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185527861-fdbc1ecc-5061-4b55-a4cf-1533e269486f.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/185527973-a2aaec5e-d6cd-4d54-bd24-d85645289168.png)
+
+
+
