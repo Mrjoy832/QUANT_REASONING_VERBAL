@@ -37,7 +37,7 @@ An= before vowel sound
 ![image](https://user-images.githubusercontent.com/77873383/185421642-dea6f536-7d5b-4763-9a07-5a82d1c0fa3d.png)
 
 
-![Uploading image.png…]()
+
 
 
 
