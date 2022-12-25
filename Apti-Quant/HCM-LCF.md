@@ -64,3 +64,6 @@ x=(k+r) [k= lcm of the numbers]
 
 ---
 
+![image](https://user-images.githubusercontent.com/77873383/209471414-24423f8a-718a-4fbe-a16c-ea89d9c99746.png)
+![image](https://user-images.githubusercontent.com/77873383/209471420-f7a29d46-5916-40f5-afd4-af2f804fe5bb.png)
+
