@@ -67,3 +67,18 @@ x=(k+r) [k= lcm of the numbers]
 ![image](https://user-images.githubusercontent.com/77873383/209471414-24423f8a-718a-4fbe-a16c-ea89d9c99746.png)
 ![image](https://user-images.githubusercontent.com/77873383/209471420-f7a29d46-5916-40f5-afd4-af2f804fe5bb.png)
 
+---
+![image](https://user-images.githubusercontent.com/77873383/209471531-6954adbf-3339-4bc7-ade7-6d1766981cf0.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/209471480-fae5f829-006e-4ad0-82d7-e251ca6e8212.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/209471675-baff7169-c745-43de-955b-1d70b36d6bab.png)
+![image](https://user-images.githubusercontent.com/77873383/209471688-020b2a8c-8f8b-490c-ae31-f8e9daf0edcd.png)
+
+---
+
+
