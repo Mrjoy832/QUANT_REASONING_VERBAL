@@ -55,3 +55,8 @@ in 1 day 3A+.5B = 1//6
 
 
 ---
+
+![image](https://user-images.githubusercontent.com/77873383/209490782-0fcc5b1c-53e0-40d5-8f41-43a748ce72ae.png)
+![image](https://user-images.githubusercontent.com/77873383/209490796-0591763f-2f86-4a21-afb5-08fd0bc64a27.png)
+
+---
