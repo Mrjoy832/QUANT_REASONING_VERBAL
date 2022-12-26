@@ -74,3 +74,7 @@ Reverse then +1 except 1st and last one
 ![image](https://user-images.githubusercontent.com/77873383/185544994-65f5cada-e19b-45f7-b89b-0a81a3e3084f.png)
 
 ---
+
+![image](https://user-images.githubusercontent.com/77873383/209556390-4135a0ae-22b5-48ec-8535-ebb7131ca157.png)
+![image](https://user-images.githubusercontent.com/77873383/209556401-8ebac908-ecdc-44ae-9cd5-a231db1be1fd.png)
+
