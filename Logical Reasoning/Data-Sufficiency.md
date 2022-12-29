@@ -96,3 +96,6 @@ Option A is wrong i.e. by I we cannot that means option C also wrong cut down th
 
 ---
 
+Both i,ii are suff -> dutoi lagbe tobe suff
+<br>
+Either i or ii means jekono ekta diyei hbe
