@@ -354,6 +354,26 @@ if -> would
 ![image](https://user-images.githubusercontent.com/77873383/185535723-968ead4c-0310-4ced-a94b-1bae58774711.png)
 
 
+---
+![image](https://user-images.githubusercontent.com/77873383/226080957-54fe87e7-8b1b-469b-a715-286b5a0ed1c3.png)
+After Cousin no use of brother or sis
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/226081030-98fa593c-01b5-476d-93eb-265d60101d78.png)
+
+One of the bad Habits
+
+---
+![image](https://user-images.githubusercontent.com/77873383/226081131-fc8316d5-a320-405a-92b6-4d48e3d00d5b.png)
+
+Has 
+
+---
+
+
+
+
 
 
 
