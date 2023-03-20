@@ -87,3 +87,9 @@ Here is Example St is generalized as talked about Men/women both but assum is sp
 
 ---
 
+![image](https://user-images.githubusercontent.com/77873383/226231603-18167733-62fc-4978-b09c-8dfcb7990ff3.png)
+
+As per question
+![image](https://user-images.githubusercontent.com/77873383/226231699-af44dc83-44de-4ac7-a93e-6143838545d0.png)
+![image](https://user-images.githubusercontent.com/77873383/226231913-611b5c72-fc97-4b73-a443-fb9aa1456b1c.png)
+
