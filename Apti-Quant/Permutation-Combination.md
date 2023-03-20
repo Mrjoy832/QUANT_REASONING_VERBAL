@@ -69,3 +69,16 @@
 ![image](https://user-images.githubusercontent.com/77873383/185332737-7685f3ab-e0bb-4c2f-8f10-a3533e353490.png)
 
 ---
+
+- Imporant 
+![image](https://user-images.githubusercontent.com/77873383/226361701-f17500ce-bf11-4fed-b568-aaa0a3c4125f.png)
+
+![image](https://user-images.githubusercontent.com/77873383/226360898-6b259efa-1e65-4469-ba06-37da2f8824eb.png)
+When 0 is in question do 2 case one end with 0 other end with other
+
+---
+
+![image](https://user-images.githubusercontent.com/77873383/226362914-eead9278-9af7-4870-9786-ec59820d8637.png)
+
+---
+
