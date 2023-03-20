@@ -66,3 +66,15 @@ Mean Deviation != Variance != std. deviation
 ![image](https://user-images.githubusercontent.com/77873383/184894755-3db33936-97a3-4240-abbe-e2d779e7bad0.png)
 
 ---
+![image](https://user-images.githubusercontent.com/77873383/226266102-d293fae9-fd68-4e9a-b57d-93c6932fc94c.png)
+---
+![image](https://user-images.githubusercontent.com/77873383/226266209-6be0c360-0534-42c9-b7cc-3a3409f32a2c.png)
+
+---
+![image](https://user-images.githubusercontent.com/77873383/226266661-c3a96614-034f-4b6b-aa87-6a9f127d2637.png)
+![image](https://user-images.githubusercontent.com/77873383/226266851-02551239-67b9-4a53-984a-8a1f72cbe68a.png)
+![image](https://user-images.githubusercontent.com/77873383/226267035-18ab39f9-3eaf-49f8-9988-0f92dbdf3f62.png)
+![image](https://user-images.githubusercontent.com/77873383/226267435-fc9ce821-2351-4369-860f-d59f07ebc218.png)
+
+
+
